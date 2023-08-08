@@ -9,5 +9,6 @@ public class driver {
         opt.addArguments("--remote-allow-origins=*");
         driver = new ChromeDriver(opt);
         return driver;
+//        driver
     }
 }
